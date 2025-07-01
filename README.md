@@ -1,4 +1,9 @@
-
+<img src="https://github.com/Andson-Sillas/wide-coverage/blob/main/mockup-wide%20coverage.png">
+<br>
+<h1>Link do projeto</h1>
+<a href="https://andson-sillas.github.io/wide-coverage/">Clique aqui</a>
+<br>
+<br>
 🌐 Projeto "Wide Coverage" – Página Estática com HTML e CSS
 Este projeto é uma página web estática desenvolvida com HTML5 e CSS3, com foco em um layout limpo e moderno para promover um serviço de transporte urbano.
 
