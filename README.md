@@ -28,4 +28,3 @@ CSS3
 
 Google Fonts (Poppins)
 
-📸 Pré-visualização (opcional)
